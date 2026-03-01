@@ -31,3 +31,7 @@ This project demonstrates front-end development skills using core web technologi
 ## 🌍 Live Demo
 
 🔗 [Click Here to View Live Site](https://krishnamishra-maker.github.io/Birthday-Wishing-Website/)
+
+## Editable
+- This Website Code Is Openly Availabe For Everyone You Can Edit And Customize It On Your Own Requirements
+- 
